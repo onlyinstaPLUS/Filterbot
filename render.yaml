@@ -27,9 +27,9 @@ services:
       - key: BOT_PICS
         sync: false
       - key: UPDATE_CHANNEL
-        sync: false
+        sync: Official_InstaPLUS
       - key: SUPPORT_CHAT
-        sync: false
+        sync: Official_InstaPLUS
       - key: START_TXT
         sync: false
       - key: AUTO_DELETE
