@@ -34,11 +34,11 @@ Add me as admin in your group and start filtering :)
 /id  -  Shows ID information
 /info userid  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
-© @learningbots79
+© @Official_InstaPLUS
 """
 
 AboutTxT = """
-⭕️ Official Channel : @learningbots79</b>
+⭕️ Official Channel : @Official_InstaPLUS</b>
 ⭕️ Developers : @TroJanzHEX 
 ⭕️ Upgrader : @Mo_Tech_YT
 ⭕️ Language : Python3
