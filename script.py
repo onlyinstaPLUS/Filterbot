@@ -44,3 +44,7 @@ AboutTxT = """
 ⭕️ Language : Python3
 ⭕️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 2.0.102</a> 
 """
+
+UpdateLink = "https://t.me/Official_InstaPLUS"
+
+SupportLink = "https://t.me/InstaPLUS_Group"
