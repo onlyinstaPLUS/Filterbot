@@ -26,10 +26,6 @@ services:
         sync: false
       - key: BOT_PICS
         sync: false
-      - key: UPDATE_CHANNEL
-        sync: false
-      - key: SUPPORT_CHAT
-        sync: false
       - key: START_TXT
         sync: false
       - key: AUTO_DELETE
